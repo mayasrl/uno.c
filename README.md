@@ -19,12 +19,6 @@ Este trabalho buscou **aplicar na prática** os conceitos de Estrutura de Dados 
 
 ---
 
-## Observações
-
-- O projeto foi criado principalmente para fins **didáticos**.  
-
----
-
 <p align="center">
   Desenvolvido com 💛 por @mayasrl.
 </p>
