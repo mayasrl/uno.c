@@ -20,5 +20,5 @@ Este trabalho buscou **aplicar na prática** os conceitos de Estrutura de Dados 
 ---
 
 <p align="center">
-  Desenvolvido com 💛 por @mayasrl durante a Formação em Dados da Escola DNC.
+  Desenvolvido com 💛 por @mayasrl.
 </p>
